@@ -1,0 +1,102 @@
+@import "_groundwp-selection-popup-customizer.css";
+
+:root {
+	--blue-dark: #63b3ed;
+	--gray-light: #cbd5e0;
+}
+
+/*theme panels separation*/
+.groundwp-customizer-last-panel {
+	margin-bottom: 20px !important;
+}
+
+/* theme brand header */
+.groundwp-customizer-panel-brandheader {
+	background-color: var(--blue-dark);
+	padding: 5px;
+	color: #fff;
+	font-size: 150%;
+}
+
+/* theme controls */
+li[id^="customize-control-groundwp"] {
+	margin: 12px 0;
+}
+
+/* control group */
+li[id^="customize-control-groundwp_control_group"] {
+	margin-bottom: 0;
+	margin-top: 24px;
+	background-color: var(--blue-dark);
+	color: #fff;
+	width: 200%;
+	transform: translateX(-10%);
+	padding: 5px 0 5px calc(20% + 5px);
+}
+
+/* horizontal ruler */
+li[id^="customize-control-groundwp"] label hr {
+	flex: 1;
+	margin: 0 !important;
+}
+
+/* descriptions */
+.groundwp-customizer-description {
+	position: relative;
+	float: right;
+	font-style: normal !important;
+	background-color: #fff;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	color: var(--blue-dark) !important;
+	font-weight: 700;
+	border: 1px solid var(--blue-dark);
+	text-align: center;
+	transition: background-color 0.1s ease-out;
+}
+
+.groundwp-customizer-description:hover {
+	background-color: var(--gray-light);
+}
+
+/* descriptions hover */
+.groundwp-customizer-description:hover {
+	cursor: pointer;
+}
+
+/* popup on hover display */
+.groundwp-customizer-description:hover > .groundwp-customizer-popup-wrapper {
+	display: flex;
+}
+
+/* slider control */
+.groundwp-customizer-control-slider {
+	flex: 1;
+	margin-right: 5px;
+}
+
+/* number box */
+.groundwp-customizer-control-number-box {
+	flex: 0.3;
+	float: right;
+}
+
+/* slider with a number box */
+.groundwp-customizer-control-slide-box {
+	display: flex;
+	justify-content: space-between;
+}
+
+.groundwp-customizer-popup-wrapper {
+	position: fixed;
+	display: none;
+	justify-content: center;
+	align-items: center;
+	max-width: 200px;
+	min-height: 50px;
+	padding: 5px 10px;
+	background-color: #000;
+	color: #fff;
+	border-radius: 4px;
+}

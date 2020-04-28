@@ -1,0 +1,390 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Imports
+	# Blocks
+	# Media
+		# Captions
+		# Galleries (Legacy)
+# Post and page content
+	# Alignments
+	# Custom block colors
+	# Custom font sizes
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Imports
+--------------------------------------------------------------*/
+@import "_blocks.css";
+@import "_media.css";
+
+/*--------------------------------------------------------------
+# Post and page content
+--------------------------------------------------------------*/
+
+
+.sticky {
+	background-color: var(--color-theme-blue-0);
+}
+
+.masonry-container {
+
+	/* Grid solution starts */
+
+	display: grid;
+	grid-gap: 1.5em;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+	& .entry {
+		margin-bottom: 0;
+	}
+
+	/* Grid solution ends */
+
+	/* Flexbox solution starts */
+
+	/* display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start; */
+
+	/* & article {
+		flex: 1;
+		min-width: 300px;
+		margin: 0 1em 1em 0;
+	} */
+
+	/* Flexbox solution ends */
+
+}
+
+.card {
+	background: var(--color-theme-white);
+	border-radius: var(--global-border-radius);
+	padding: 1.5em;
+	overflow: hidden;
+}
+
+.card--spaced {
+	padding: 2em 3em;
+}
+
+.card--2dp {
+	box-shadow: var(--global-box-shadow-2-dp);
+}
+
+.card--6dp {
+	box-shadow: var(--global-box-shadow-6-dp);
+}
+
+.entry {
+	margin-bottom: 1.5em;
+}
+
+.entry-header .entry-title,
+.page-header .page-title {
+
+	margin: 0.5em 0;
+	line-height: 1.5;
+
+	& a {
+		color: initial;
+		text-decoration: none;
+	}
+}
+
+.entry-header {
+	margin-top: 0;
+}
+
+.entry-meta {
+	font-size: var(--font-size-small);
+
+	& .posted-on a {
+		color: var(--color-theme-gray-7);
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+}
+
+/* Hides the update date and time. */
+.updated:not(.published) {
+	display: none;
+}
+
+.post-thumbnail {
+	display: block;
+	margin-top: -1.5em;
+	margin-bottom: 1em;
+
+	& img {
+		margin: 20px auto;
+	}
+}
+
+.page-content,
+.entry-content,
+.entry-summary {
+	margin: 1em 0 0;
+}
+
+.entry-footer,
+.entry-content,
+.post-navigation,
+.page-navigation,
+.comments-area {
+	margin: 1.5em auto;
+}
+
+.entry-summary {
+
+	& .read-more {
+		display: block;
+		margin-top: 1em;
+		text-transform: uppercase;
+		text-decoration: none;
+		font-weight: 700;
+		color: var(--color-theme-blue-6);
+
+		&:hover {
+			color: var(--color-theme-blue-8);
+		}
+	}
+
+	& p:last-child {
+		margin-bottom: 0;
+	}
+}
+
+.entry-content ul,
+.entry-content ol {
+	padding-right: 2.5em;
+	padding-left: 2.5em;
+}
+
+.entry-content ul ul,
+.entry-content ol ol {
+	margin-right: 0;
+	margin-left: 0;
+	padding-right: 1.5em;
+	padding-left: 1.5em;
+}
+
+/* Align .more-link with the content. */
+.entry-content > .more-link {
+	display: block;
+}
+
+.page-content {
+
+	@extend .card, .card--6dp;
+}
+
+.page-links {
+	clear: both;
+	margin-bottom: 1.5em;
+}
+
+.entry-footer {
+	clear: both;
+	margin-bottom: 0;
+	font-size: var(--font-size-small);
+
+	& span {
+		display: block;
+	}
+
+	& .entry-taxonomies span.category-links {
+		margin-bottom: 0.5em;
+
+		& a {
+			background-color: var(--color-theme-blue-0);
+			margin: 0 3px;
+			padding: 2px 7px;
+			border-radius: var(--global-border-radius);
+			color: var(--color-theme-gray-9);
+			text-decoration: none;
+
+			&:hover {
+				background-color: var(--color-theme-blue-1);
+			}
+		}
+	}
+}
+
+/*--------------------------------------------------------------
+## Alignments
+--------------------------------------------------------------*/
+.alignleft {
+	float: left;
+	margin-right: 1.5rem;
+}
+
+.alignright {
+	float: right;
+	margin-left: 1.5rem;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignwide {
+	max-width: unset;
+	width: calc(100% + 3em);
+	margin-left: -1.5em;
+	margin-right: -1.5em;
+}
+
+.alignfull {
+	max-width: unset;
+	width: calc(100% + 6em);
+	margin-left: -3em;
+	margin-right: -3em;
+}
+
+/*--------------------------------------------------------------
+## Custom block colors.
+--------------------------------------------------------------*/
+
+.has-theme-blue {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-blue-5);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-blue-5);
+	}
+}
+
+.has-theme-black {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-gray-9);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-gray-9);
+	}
+}
+
+.has-theme-red {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-red);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-red);
+	}
+}
+
+.has-theme-grape {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-grape);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-grape);
+	}
+}
+
+.has-theme-orange {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-orange);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-orange);
+	}
+}
+
+.has-theme-lime {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-lime);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-lime);
+	}
+}
+
+.has-theme-green {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-green);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-green);
+	}
+}
+
+.has-theme-cyan {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-cyan);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-cyan);
+	}
+}
+
+.has-theme-pink {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-pink);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-pink);
+	}
+}
+
+.has-theme-white {
+
+	&-color,
+	&-color a {
+		color: var(--color-theme-white);
+	}
+
+	&-background-color {
+		background-color: var(--color-theme-white);
+	}
+}
+
+/*--------------------------------------------------------------
+## Custom block font sizes.
+--------------------------------------------------------------*/
+
+.has-small-font-size {
+	font-size: var(--font-size-small);
+}
+
+.has-regular-font-size {
+	font-size: var(--font-size-regular);
+}
+
+.has-large-font-size {
+	font-size: var(--font-size-large);
+}
+
+.has-larger-font-size {
+	font-size: var(--font-size-larger);
+}

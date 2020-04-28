@@ -1,0 +1,130 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="copy">_views_template</custom-field>
+		<custom-field action="ignore">_views_template_new_type</custom-field>
+		<custom-field action="ignore">_wpv_settings</custom-field>
+		<custom-field action="ignore">_wpv_layout_settings</custom-field>
+		<custom-field action="ignore">_wpv_view_sync</custom-field>
+
+		<custom-field action="ignore">_view_loop_template</custom-field>
+
+		<!-- Content Template fields, @since 1.9 -->
+		<!-- todo can we make this conditional for a specific post type? -->
+		<custom-field action="ignore">_view_loop_id</custom-field>
+		<custom-field action="ignore">_edit_lock</custom-field>
+		<custom-field action="ignore">_wpv_view_template_extra_state</custom-field> <!-- deprecated -->
+		<custom-field action="copy">_wpv_view_template_mode</custom-field>
+		<custom-field action="copy">_wpv_view_template_extra_css</custom-field>
+		<custom-field action="copy">_wpv_view_template_extra_js</custom-field>
+		<custom-field action="translate">_wpv-content-template-decription</custom-field>
+	</custom-fields>
+
+	<custom-types>
+		<custom-type translate="1" display-as-translated="1">>view-template</custom-type>
+		<custom-type translate="0">view</custom-type>
+		<custom-type translate="1" display-as-translated="1">>wpa-helper</custom-type>
+	</custom-types>
+
+	<gutenberg-blocks>
+		<gutenberg-block type="toolset-blocks/star-rating" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-blocks/repeating-field" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-blocks/container" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-views/view-editor" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-views/custom-search-container" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-views/view-template-block" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-views/wpa-editor" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-views/table-header-column" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-views/table-column" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-blocks/grid" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-blocks/grid-column" translate="0"></gutenberg-block>
+		<gutenberg-block type="toolset-blocks/heading" translate="1">
+			<xpath>//*[self::h1 or self::h2 or self::h3 or self::h4 or self::h5 or self::h6]</xpath>
+			<key name="content"/>
+		</gutenberg-block>
+		<gutenberg-block type="toolset-blocks/button" translate="1">
+			<xpath>//span</xpath>
+			<key name="buttonText" />
+			<xpath>//a/@href</xpath>
+			<key name="url" />
+		</gutenberg-block>
+		<gutenberg-block type="toolset-blocks/countdown" translate="1">
+			<xpath>//div[@class='tb-countdown__days']/span[@class='tb-countdown__label']</xpath>
+			<key name="dayLabel" />
+			<xpath>//div[@class='tb-countdown__hours']/span[@class='tb-countdown__label']</xpath>
+			<key name="hourLabel" />
+			<xpath>//div[@class='tb-countdown__minutes']/span[@class='tb-countdown__label']</xpath>
+			<key name="minuteLabel" />
+			<xpath>//div[@class='tb-countdown__seconds']/span[@class='tb-countdown__label']</xpath>
+			<key name="secondLabel" />
+			<xpath>//div[@class='tb-countdown__message']</xpath>
+			<key name="message" />
+			<xpath>//div/@data-countdown-redirect</xpath>
+			<key name="redirectUrl" />
+		</gutenberg-block>
+		<gutenberg-block type="toolset-blocks/progress" translate="1">
+			<xpath>//span[@class='tb-progress__text']</xpath>
+		</gutenberg-block>
+		<gutenberg-block type="toolset-blocks/audio" translate="1">
+			<xpath>//audio/@src</xpath>
+			<key name="src" />
+		</gutenberg-block>
+		<gutenberg-block type="toolset-blocks/video" translate="1">
+			<xpath>//video/@src</xpath>
+			<key name="src" />
+			<xpath>//video/@poster</xpath>
+			<key name="poster" />
+		</gutenberg-block>
+		<gutenberg-block type="toolset-blocks/image" translate="1">
+			<xpath>//a/@href</xpath>
+			<xpath>//figure[contains(@class, 'tb-image-url')]/img/@src</xpath>
+			<xpath>//img/@alt</xpath>
+			<xpath>//figcaption</xpath>
+		</gutenberg-block>
+		<gutenberg-block type="toolset-blocks/field" translate="1">
+			<xpath>//span</xpath>
+		</gutenberg-block>
+		<gutenberg-block type="toolset-blocks/social-share" translate="1">
+			<xpath>//@data-shareurl</xpath>
+			<key name="url" />
+			<xpath>//@data-title</xpath>
+			<key name="title" />
+			<xpath>//div[@class='tb-social-share__excerpt']</xpath>
+			<key name="excerpt" />
+			<xpath>//@data-image</xpath>
+			<key name="image" />
+		</gutenberg-block>
+		<gutenberg-block type="toolset-views/custom-search-filter" translate="1">
+			<xpath>//span[@class='wpv-custom-search-filter__input']</xpath>
+		</gutenberg-block>
+		<gutenberg-block type="toolset-views/custom-search-submit" translate="1">
+			<xpath>//div[contains(@class, 'wpv-custom-search-submit-button')]</xpath>
+		</gutenberg-block>
+		<gutenberg-block type="toolset-views/custom-search-reset" translate="1">
+			<xpath>//div[contains(@class, 'wpv-custom-search-reset-button')]</xpath>
+		</gutenberg-block>
+		<gutenberg-block type="toolset-views/view-pagination-block" translate="1">
+			<key name="text_for_*"/>
+			<key name="previousText" />
+			<xpath>//span[@class='previous-text']</xpath>
+			<key name="nextText" />
+			<xpath>//span[@class='next-text']</xpath>
+			<key name="dropdownLabel" />
+			<xpath>//label[@class='dropdown-label']</xpath>
+		</gutenberg-block>
+		<gutenberg-block type="toolset-blocks/fields-and-text" translate="1">
+			<xpath>//div[@class='tb-fields-and-text']</xpath>
+			<key name="content" />
+		</gutenberg-block>
+		<gutenberg-block type="toolset-views/sorting" translate="1">
+			<xpath>//div[@class='wpv-sorting-block-label']</xpath>
+			<key name="label"/>
+			<key name="fields">
+				<key name="*">
+					<key name="flabel"/>
+					<key name="asc_label"/>
+					<key name="desc_label"/>
+				</key>
+			</key>
+		</gutenberg-block>
+	</gutenberg-blocks>
+</wpml-config>

@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<council_id><![CDATA[1]]></council_id>
+		<council_name><![CDATA[Bass Coast Shire]]></council_name>
+		<tree_loss_rating><![CDATA[64]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[3.7]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/5"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/5"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[2]]></council_id>
+		<council_name><![CDATA[Moira Shire]]></council_name>
+		<tree_loss_rating><![CDATA[60]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[31]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/48"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/48"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/48?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[3]]></council_id>
+		<council_name><![CDATA[Loddon Shire]]></council_name>
+		<tree_loss_rating><![CDATA[75]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[1.9]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[15]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/38"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/38"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/38?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[4]]></council_id>
+		<council_name><![CDATA[Hepburn Shire]]></council_name>
+		<tree_loss_rating><![CDATA[38]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[8.1]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[22]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/29?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/29"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/29"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/29?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[5]]></council_id>
+		<council_name><![CDATA[Mitchell Shire]]></council_name>
+		<tree_loss_rating><![CDATA[25]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[12]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[50]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/47?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/47?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[6]]></council_id>
+		<council_name><![CDATA[Horsham Rural City]]></council_name>
+		<tree_loss_rating><![CDATA[11]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[30]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[40]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/32?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/32"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/32"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/32?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[7]]></council_id>
+		<council_name><![CDATA[Bayside City]]></council_name>
+		<tree_loss_rating><![CDATA[20]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[15]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/7?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/7"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/7"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[8]]></council_id>
+		<council_name><![CDATA[Greater Dandenong City]]></council_name>
+		<tree_loss_rating><![CDATA[15]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[17]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/26?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/26"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/26"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[9]]></council_id>
+		<council_name><![CDATA[Whitehorse City]]></council_name>
+		<tree_loss_rating><![CDATA[55]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[4.4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/74"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/74"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[10]]></council_id>
+		<council_name><![CDATA[Mildura Rural City]]></council_name>
+		<tree_loss_rating><![CDATA[1]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[81]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[226]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/46?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/46"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/46"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/46?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[11]]></council_id>
+		<council_name><![CDATA[Mount Alexander Shire]]></council_name>
+		<tree_loss_rating><![CDATA[77]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[1.8]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[18]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/54"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/54"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/54?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[12]]></council_id>
+		<council_name><![CDATA[Latrobe City]]></council_name>
+		<tree_loss_rating><![CDATA[6]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[38]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[29]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/37?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/37?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[13]]></council_id>
+		<council_name><![CDATA[Greater Geelong City]]></council_name>
+		<tree_loss_rating><![CDATA[76]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[1.9]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[11]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/27"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/27"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/27?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[14]]></council_id>
+		<council_name><![CDATA[Casey City]]></council_name>
+		<tree_loss_rating><![CDATA[68]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[3.3]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/14"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/14"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[15]]></council_id>
+		<council_name><![CDATA[Hindmarsh Shire]]></council_name>
+		<tree_loss_rating><![CDATA[2]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[62]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[37]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/30?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/30"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/30"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/30?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[16]]></council_id>
+		<council_name><![CDATA[Buloke Shire]]></council_name>
+		<tree_loss_rating><![CDATA[4]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[43]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/11?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/11"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/11"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[17]]></council_id>
+		<council_name><![CDATA[Yarriambiack Shire]]></council_name>
+		<tree_loss_rating><![CDATA[3]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[59]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[62]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/80?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/80"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/80"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/80?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[18]]></council_id>
+		<council_name><![CDATA[Moyne Shire]]></council_name>
+		<tree_loss_rating><![CDATA[30]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[11]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[18]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/55?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/55"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/55"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/55?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[19]]></council_id>
+		<council_name><![CDATA[Maroondah City]]></council_name>
+		<tree_loss_rating><![CDATA[41]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[7.4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/43"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/43"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[20]]></council_id>
+		<council_name><![CDATA[Ballarat City]]></council_name>
+		<tree_loss_rating><![CDATA[8]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[34]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[52]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/3?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/3"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/3"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/3?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[21]]></council_id>
+		<council_name><![CDATA[Corangamite Shire]]></council_name>
+		<tree_loss_rating><![CDATA[33]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[10]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[17]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/17?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/17"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/17"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/17?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[22]]></council_id>
+		<council_name><![CDATA[Pyrenees Shire]]></council_name>
+		<tree_loss_rating><![CDATA[16]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[16]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[42]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/60?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/60"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/60"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/60?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[23]]></council_id>
+		<council_name><![CDATA[Melbourne City]]></council_name>
+		<tree_loss_rating><![CDATA[36]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[8.4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/44?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/44"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/44"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[24]]></council_id>
+		<council_name><![CDATA[Strathbogie Shire]]></council_name>
+		<tree_loss_rating><![CDATA[62]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[3.9]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[20]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/65"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/65"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/65?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[25]]></council_id>
+		<council_name><![CDATA[Towong Shire]]></council_name>
+		<tree_loss_rating><![CDATA[57]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[4.2]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[76]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/68?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[26]]></council_id>
+		<council_name><![CDATA[West Wimmera Shire]]></council_name>
+		<tree_loss_rating><![CDATA[7]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[37]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[85]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/73?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/73?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[27]]></council_id>
+		<council_name><![CDATA[Baw Baw Shire]]></council_name>
+		<tree_loss_rating><![CDATA[31]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[11]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[83]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/6?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/6?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[28]]></council_id>
+		<council_name><![CDATA[Swan Hill Rural City]]></council_name>
+		<tree_loss_rating><![CDATA[18]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[15]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[14]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/67?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/67"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/67"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/67?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[29]]></council_id>
+		<council_name><![CDATA[Moonee Valley City]]></council_name>
+		<tree_loss_rating><![CDATA[51]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[5.2]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/50"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/50"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[30]]></council_id>
+		<council_name><![CDATA[Banyule City]]></council_name>
+		<tree_loss_rating><![CDATA[67]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[3.4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/4"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/4"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[31]]></council_id>
+		<council_name><![CDATA[Wyndham City]]></council_name>
+		<tree_loss_rating><![CDATA[61]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[3.9]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/77"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/77"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[32]]></council_id>
+		<council_name><![CDATA[Gannawarra Shire]]></council_name>
+		<tree_loss_rating><![CDATA[47]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[6]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[15]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/21"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/21"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/21?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[33]]></council_id>
+		<council_name><![CDATA[Mansfield Shire]]></council_name>
+		<tree_loss_rating><![CDATA[52]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[4.7]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[34]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/41?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[34]]></council_id>
+		<council_name><![CDATA[Greater Shepparton City]]></council_name>
+		<tree_loss_rating><![CDATA[40]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[7.4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[37]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/28?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/28"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/28"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/28?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[35]]></council_id>
+		<council_name><![CDATA[Glenelg Shire]]></council_name>
+		<tree_loss_rating><![CDATA[10]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[30]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[61]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/23?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/23?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[36]]></council_id>
+		<council_name><![CDATA[Manningham City]]></council_name>
+		<tree_loss_rating><![CDATA[70]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[2.5]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/40"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/40"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[37]]></council_id>
+		<council_name><![CDATA[Nillumbik Shire]]></council_name>
+		<tree_loss_rating><![CDATA[53]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[4.5]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/57"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/57"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[38]]></council_id>
+		<council_name><![CDATA[Hume City]]></council_name>
+		<tree_loss_rating><![CDATA[43]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[6.7]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[14]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/33"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/33"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/33?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[39]]></council_id>
+		<council_name><![CDATA[Hobsons Bay City]]></council_name>
+		<tree_loss_rating><![CDATA[13]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[21]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/31?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/31"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/31"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[40]]></council_id>
+		<council_name><![CDATA[Moorabool Shire]]></council_name>
+		<tree_loss_rating><![CDATA[46]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[6]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[42]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/51?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[41]]></council_id>
+		<council_name><![CDATA[Boroondara City]]></council_name>
+		<tree_loss_rating><![CDATA[63]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[3.7]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/9"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/9"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[42]]></council_id>
+		<council_name><![CDATA[Unincorporated Victoria]]></council_name>
+		<tree_loss_rating><![CDATA[23]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[13]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[95]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/69?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/69"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/69"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/69?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[43]]></council_id>
+		<council_name><![CDATA[Queenscliffe Borough]]></council_name>
+		<tree_loss_rating><![CDATA[78]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[1.2]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/61"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/61"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[44]]></council_id>
+		<council_name><![CDATA[Greater Bendigo City]]></council_name>
+		<tree_loss_rating><![CDATA[80]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[0.94]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[21]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/25"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/25"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/25?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[45]]></council_id>
+		<council_name><![CDATA[Frankston City]]></council_name>
+		<tree_loss_rating><![CDATA[19]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[15]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[13]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/20?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/20"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/20"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/20?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[46]]></council_id>
+		<council_name><![CDATA[Alpine Shire]]></council_name>
+		<tree_loss_rating><![CDATA[35]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[9.5]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[1274]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/1?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/1?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[47]]></council_id>
+		<council_name><![CDATA[Campaspe Shire]]></council_name>
+		<tree_loss_rating><![CDATA[73]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[2]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[16]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/12"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/12"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/12?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[48]]></council_id>
+		<council_name><![CDATA[Surf Coast Shire]]></council_name>
+		<tree_loss_rating><![CDATA[65]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[3.6]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/66"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/66"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[49]]></council_id>
+		<council_name><![CDATA[Melton City]]></council_name>
+		<tree_loss_rating><![CDATA[79]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[0.95]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/45"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/45"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[50]]></council_id>
+		<council_name><![CDATA[Port Phillip City]]></council_name>
+		<tree_loss_rating><![CDATA[48]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[5.9]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/59"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/59"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[51]]></council_id>
+		<council_name><![CDATA[Moreland City]]></council_name>
+		<tree_loss_rating><![CDATA[39]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[7.5]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/52?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/52"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/52"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[52]]></council_id>
+		<council_name><![CDATA[Cardinia Shire]]></council_name>
+		<tree_loss_rating><![CDATA[66]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[3.5]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[15]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/13"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/13"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/13?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[53]]></council_id>
+		<council_name><![CDATA[Stonnington City]]></council_name>
+		<tree_loss_rating><![CDATA[49]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[5.4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/64"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/64"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[54]]></council_id>
+		<council_name><![CDATA[South Gippsland Shire]]></council_name>
+		<tree_loss_rating><![CDATA[27]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[11]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[126]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/62?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/62?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[55]]></council_id>
+		<council_name><![CDATA[Kingston City]]></council_name>
+		<tree_loss_rating><![CDATA[24]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[12]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/35?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/35"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/35"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[56]]></council_id>
+		<council_name><![CDATA[Golden Plains Shire]]></council_name>
+		<tree_loss_rating><![CDATA[5]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[40]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[40]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/24?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/24"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/24"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/24?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[57]]></council_id>
+		<council_name><![CDATA[Macedon Ranges Shire]]></council_name>
+		<tree_loss_rating><![CDATA[42]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[7.4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[603]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/39"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/39"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/39?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[58]]></council_id>
+		<council_name><![CDATA[Mornington Peninsula Shire]]></council_name>
+		<tree_loss_rating><![CDATA[54]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[4.4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[12]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/53"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/53"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/53?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[59]]></council_id>
+		<council_name><![CDATA[Benalla Rural City]]></council_name>
+		<tree_loss_rating><![CDATA[22]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[15]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[29]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/8?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/8?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[60]]></council_id>
+		<council_name><![CDATA[Wodonga City]]></council_name>
+		<tree_loss_rating><![CDATA[56]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[4.3]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/76"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/76"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[61]]></council_id>
+		<council_name><![CDATA[Southern Grampians Shire]]></council_name>
+		<tree_loss_rating><![CDATA[21]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[15]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[40]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/63?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/63?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[62]]></council_id>
+		<council_name><![CDATA[Knox City]]></council_name>
+		<tree_loss_rating><![CDATA[44]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[6.6]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/36"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/36"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[63]]></council_id>
+		<council_name><![CDATA[Murrindindi Shire]]></council_name>
+		<tree_loss_rating><![CDATA[12]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[23]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[46]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/56?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/56?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[64]]></council_id>
+		<council_name><![CDATA[Wangaratta Rural City]]></council_name>
+		<tree_loss_rating><![CDATA[50]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[5.4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[24]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/70?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[65]]></council_id>
+		<council_name><![CDATA[Central Goldfields Shire]]></council_name>
+		<tree_loss_rating><![CDATA[69]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[2.8]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/15"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/15"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[66]]></council_id>
+		<council_name><![CDATA[Monash City]]></council_name>
+		<tree_loss_rating><![CDATA[58]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[4.1]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/49"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/49"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[67]]></council_id>
+		<council_name><![CDATA[Maribyrnong City]]></council_name>
+		<tree_loss_rating><![CDATA[71]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[2.3]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/42"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/42"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[68]]></council_id>
+		<council_name><![CDATA[Glen Eira City]]></council_name>
+		<tree_loss_rating><![CDATA[14]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[18]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/22?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/22"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/22"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[69]]></council_id>
+		<council_name><![CDATA[Whittlesea City]]></council_name>
+		<tree_loss_rating><![CDATA[17]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[16]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[15]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/75?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/75"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/75"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/75?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[70]]></council_id>
+		<council_name><![CDATA[Yarra City]]></council_name>
+		<tree_loss_rating><![CDATA[74]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[2]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/78"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/78"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[71]]></council_id>
+		<council_name><![CDATA[Warrnambool City]]></council_name>
+		<tree_loss_rating><![CDATA[59]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[4]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/71"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/71"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[72]]></council_id>
+		<council_name><![CDATA[Brimbank City]]></council_name>
+		<tree_loss_rating><![CDATA[72]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[2.2]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[11]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/10"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/10"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/10?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[73]]></council_id>
+		<council_name><![CDATA[Indigo Shire]]></council_name>
+		<tree_loss_rating><![CDATA[34]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[10]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[27]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/34?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/34?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[74]]></council_id>
+		<council_name><![CDATA[Northern Grampians Shire]]></council_name>
+		<tree_loss_rating><![CDATA[9]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[34]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[22]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/58?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/58?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[75]]></council_id>
+		<council_name><![CDATA[Wellington Shire]]></council_name>
+		<tree_loss_rating><![CDATA[32]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[11]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[818]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/72?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/72?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[76]]></council_id>
+		<council_name><![CDATA[Ararat Rural City]]></council_name>
+		<tree_loss_rating><![CDATA[28]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[11]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[34]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/2?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/2"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/2"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/2?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[77]]></council_id>
+		<council_name><![CDATA[Colac Otway Shire]]></council_name>
+		<tree_loss_rating><![CDATA[26]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[12]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[19]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/16?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/16?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[78]]></council_id>
+		<council_name><![CDATA[Yarra Ranges Shire]]></council_name>
+		<tree_loss_rating><![CDATA[37]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[8.3]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[41]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/79?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/79?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[79]]></council_id>
+		<council_name><![CDATA[East Gippsland Shire]]></council_name>
+		<tree_loss_rating><![CDATA[45]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[6.5]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[0]]></is_tree_loss>
+		<is_climate><![CDATA[0]]></is_climate>
+		<is_bushfire><![CDATA[1]]></is_bushfire>
+		<bushfire_count><![CDATA[4083]]></bushfire_count>
+		<tree_loss_url><![CDATA[This area does not face this threat]]></tree_loss_url>
+		<carbon_url><![CDATA[This area does not face this threat]]></carbon_url>
+		<biomass_url><![CDATA[This area does not face this threat]]></biomass_url>
+		<bushfire_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/firesAlerts/country/AUS/10/19?firesAlerts=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></bushfire_url>
+	</node>
+	<node>
+		<council_id><![CDATA[80]]></council_id>
+		<council_name><![CDATA[Darebin City]]></council_name>
+		<tree_loss_rating><![CDATA[29]]></tree_loss_rating>
+		<tree_loss_percent><![CDATA[11]]></tree_loss_percent>
+		<is_tree_loss><![CDATA[1]]></is_tree_loss>
+		<is_climate><![CDATA[1]]></is_climate>
+		<is_bushfire><![CDATA[0]]></is_bushfire>
+		<bushfire_count><![CDATA[0]]></bushfire_count>
+		<tree_loss_url><![CDATA[<iframe width="630" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/treeLoss/country/AUS/10/18?treeLoss=eyJpbnRlcmFjdGlvbiI6e319"></iframe>]]></tree_loss_url>
+		<carbon_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/carbonStock/country/AUS/10/18"></iframe>]]></carbon_url>
+		<biomass_url><![CDATA[<iframe width="315" height="460" frameborder="0" src="https://www.globalforestwatch.org/embed/widget/whrc-biomass/country/AUS/10/18"></iframe>]]></biomass_url>
+		<bushfire_url><![CDATA[This area does not face this threat]]></bushfire_url>
+	</node>
+</data>

@@ -1,0 +1,54 @@
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+
+/*full header width*/
+.header-full {
+	max-width: 100% !important;
+}
+
+.logo-left .site-branding {
+	order: 0;
+}
+
+.logo-right .site-branding {
+	order: 10;
+}
+
+.logo-top .header-container {
+	flex-direction: column;
+}
+
+.logo-right .call-to-action {
+	order: -1;
+}
+
+.header-sub-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+.site-branding {
+	display: flex;
+	justify-content: center;
+}
+
+.call-to-action > a {
+	padding: 0.5em 1em;
+	order: 9;
+}
+
+.sticky-header {
+	transition: all 0.5s ease-out;
+	position: fixed;
+	left: 0;
+	right: 0;
+	z-index: 1000;
+}
+
+.sticky-header-hide {
+	transform: translateY(-100%);
+}

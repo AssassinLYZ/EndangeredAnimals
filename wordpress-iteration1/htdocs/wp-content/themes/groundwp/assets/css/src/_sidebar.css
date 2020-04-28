@@ -1,0 +1,45 @@
+/*--------------------------------------------------------------
+# Sidebar
+--------------------------------------------------------------*/
+
+.sidebar-left {
+
+	& .content-container {
+		grid-template-columns: 1fr 3fr !important;
+	}
+
+	& .site-main {
+		grid-column: 2 !important;
+		order: 2 !important;
+	}
+
+	& .primary-sidebar {
+		grid-column: 1 !important;
+		order: 1 !important;
+	}
+}
+
+.primary-sidebar {
+	padding: 1.5rem 0;
+	font-family: var(--highlight-font-family);
+	font-stretch: condensed;
+	max-width: var(--content-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (--content-query) {
+
+	.primary-sidebar {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+}
+
+@media (--sidebar-query) {
+
+	.primary-sidebar {
+		padding: 0;
+	}
+}

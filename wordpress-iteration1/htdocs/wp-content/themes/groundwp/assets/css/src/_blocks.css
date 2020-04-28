@@ -1,0 +1,132 @@
+@import "_custom-properties.css";
+
+/*--------------------------------------------------------------
+## Blocks
+--------------------------------------------------------------*/
+
+/*
+ * Available block selectors:
+ * .wp-block-image
+ * .wp-block-media-text
+ * .wp-block-audio
+ * .wp-block-video
+ * .wp-block-quote
+ * .wp-block-cover
+ * .wp-block-file
+ * .wp-block-button
+ * .wp-block-gallery
+ * .wp-block-table
+ * .wp-block-embed
+ * .wp-block-audio
+ * .wp-block-pullquote
+ * .wp-block-preformatted
+ * .wp-block-code
+ * .wp-block-verse
+ * .wp-block-table
+ * .wp-block-separator
+ * .wp-block-columns
+ * .wp-block-column
+ * .wp-block-latest-posts
+ * .wp-block-categories
+ * .wp-block-archives
+ */
+
+/* Blockquote Block */
+.wp-block-quote,
+.wp-block-quote.is-large,
+.wp-block-quote.is-style-large {
+	padding: 1em;
+}
+
+.wp-block-quote:not(.is-large):not(.is-style-large) {
+	border-left-color: var(--color-quote-border);
+}
+
+.wp-block-quote__citation,
+.wp-block-quote cite,
+.wp-block-quote footer {
+	border-left-color: var(--color-quote-citation);
+}
+
+/* Buttons Block */
+.wp-block-button__link {
+	background-color: var(--color-theme-blue-5);
+	border-radius: var(--global-border-radius);
+	font-size: inherit;
+	padding: 0.5em 2em;
+
+	&:hover {
+		background-color: var(--color-theme-blue-7);
+	}
+}
+
+.wp-block-button.is-style-outline {
+
+	& .wp-block-button__link {
+		background-color: var(--color-theme-white);
+		color: var(--color-theme-blue-5);
+
+		&:hover {
+			background-color: var(--color-theme-blue-0);
+		}
+	}
+}
+
+/* Cover Block */
+.wp-block-cover {
+	display: flex;
+	align-items: center;
+}
+
+.wp-block-cover__inner-container > * {
+	max-width: var(--content-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wp-block-cover .wp-block-cover-text,
+.wp-block-cover p {
+	margin-top: 0;
+}
+
+/* Columns Block */
+.wp-block-column {
+	flex-basis: 100%;
+}
+
+.wp-block-column:not(:last-child),
+.wp-block-column:nth-child(2n+1) {
+	margin-right: 0;
+}
+
+.wp-block-column:not(:first-child) {
+	margin-left: 0;
+}
+
+.wp-block-latest-posts,
+.wp-block-latest-comments {
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+ul.wp-block-latest-posts.alignwide,
+ul.wp-block-latest-posts.alignfull,
+ul.wp-block-latest-posts.is-grid.alignwide,
+ul.wp-block-latest-posts.is-grid.alignfull {
+	padding: 0 1.5em;
+}
+
+/*--------------------------------------------------------------
+# Gallery Block
+--------------------------------------------------------------*/
+
+/* Override standard ul indentation. */
+
+.entry-content {
+
+	& .blocks-gallery-grid,
+	& .wp-block-gallery {
+		padding-right: 0;
+		padding-left: 0;
+	}
+}

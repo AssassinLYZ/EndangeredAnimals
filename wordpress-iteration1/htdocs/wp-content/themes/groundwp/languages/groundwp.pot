@@ -1,0 +1,740 @@
+# Copyright (C) 2020 GroundWP
+# This file is distributed under the same license as the GroundWP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: GroundWP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Imtiaz Rayhan\n"
+"Report-Msgid-Bugs-To: GroundWP\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: 1: title.
+#: ../groundwp/comments.php:38
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: ../groundwp/comments.php:44
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../groundwp/comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: ../groundwp/header.php:36
+msgid "Skip to content"
+msgstr ""
+
+#. translators: 1: required WP version number, 2: required PHP version number, 3: available WP version number, 4: available PHP version number
+#: ../groundwp/inc/back-compat.php:25
+msgid "GroundWP requires at least WordPress version %1$s and PHP version %2$s. You are running versions %3$s and %3$s respectively. Please update and try again."
+msgstr ""
+
+#. translators: 1: required WP version number, 2: available WP version number
+#: ../groundwp/inc/back-compat.php:30
+msgid "GroundWP requires at least WordPress version %1$s. You are running version %2$s. Please update and try again."
+msgstr ""
+
+#. translators: 1: required PHP version number, 2: available PHP version number
+#: ../groundwp/inc/back-compat.php:35
+msgid "GroundWP requires at least PHP version %1$s. You are running version %2$s. Please update and try again."
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: ../groundwp/inc/Schema.php:37
+msgid "Schema file %1$s does not implement the %2$s interface"
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: ../groundwp/inc/Template_Tags.php:54
+msgid "The theme templating component %1$s does not implement the %2$s interface."
+msgstr ""
+
+#. translators: %s: template tag name
+#: ../groundwp/inc/Template_Tags.php:81
+msgid "The template tag %s does not exist."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: component class name
+#: ../groundwp/inc/Template_Tags.php:110
+msgid "The template tag method %1$s registered by theme component %2$s must either be a callable or an array."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: component class name
+#: ../groundwp/inc/Template_Tags.php:121
+msgid "The template tag method %1$s registered by theme component %2$s conflicts with an already registered template tag of the same name."
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: ../groundwp/inc/Theme.php:57
+msgid "The theme component %1$s does not implement the %2$s interface."
+msgstr ""
+
+#. translators: %s: slug
+#: ../groundwp/inc/Theme.php:121
+msgid "No theme component with the slug %s exists."
+msgstr ""
+
+#: ../groundwp/inc/Accessibility/Component.php:69
+msgid "Expand child menu"
+msgstr ""
+
+#: ../groundwp/inc/Accessibility/Component.php:70
+msgid "Collapse child menu"
+msgstr ""
+
+#: ../groundwp/inc/Base_Support/Component.php:127
+msgid "Cache"
+msgstr ""
+
+#: ../groundwp/inc/Base_Support/Component.php:136
+msgid "Enable browser caching of assets."
+msgstr ""
+
+#: ../groundwp/inc/Base_Support/Component.php:137
+msgid "Will enable caching of theme/site assets. Disable it to force browsers to ignore cached assets."
+msgstr ""
+
+#: ../groundwp/inc/Base_Support/Component.php:148
+msgid "Cache duration"
+msgstr ""
+
+#: ../groundwp/inc/Base_Support/Component.php:149
+msgid "Amount of seconds  needed to be passed to invalidate the cached assets"
+msgstr ""
+
+#: ../groundwp/inc/Base_Support/Component.php:256
+msgid "Continue Reading &hellip;"
+msgstr ""
+
+#: ../groundwp/inc/Blog_Layout/Component.php:64
+msgid "Vertical List"
+msgstr ""
+
+#: ../groundwp/inc/Blog_Layout/Component.php:65
+msgid "Masonry Grid"
+msgstr ""
+
+#: ../groundwp/inc/Blog_Layout/Component.php:72, ../groundwp/inc/Blog_Layout/Component.php:89
+msgid "Blog Layout"
+msgstr ""
+
+#: ../groundwp/inc/Call_To_Action/Component.php:133
+msgid "call us"
+msgstr ""
+
+#: ../groundwp/inc/Call_To_Action/Component.php:148
+msgid "Enable Call To Action Button"
+msgstr ""
+
+#: ../groundwp/inc/Call_To_Action/Component.php:149
+msgid "Enable Call To Action Component."
+msgstr ""
+
+#: ../groundwp/inc/Call_To_Action/Component.php:158
+msgid "Call To Action Button URL"
+msgstr ""
+
+#: ../groundwp/inc/Call_To_Action/Component.php:159
+msgid "Url to redirect with Call To Action button, leave it empty for hiding the button"
+msgstr ""
+
+#: ../groundwp/inc/Call_To_Action/Component.php:169
+msgid "Call To Action button text"
+msgstr ""
+
+#: ../groundwp/inc/Call_To_Action/Component.php:170
+msgid "Visible text on Call To Action button."
+msgstr ""
+
+#: ../groundwp/inc/Comments/Component.php:131
+msgid "New comment(s)"
+msgstr ""
+
+#: ../groundwp/inc/Container_Layout/Component.php:67
+msgid "Boxed"
+msgstr ""
+
+#: ../groundwp/inc/Container_Layout/Component.php:68
+msgid "Full Width (Contained)"
+msgstr ""
+
+#: ../groundwp/inc/Container_Layout/Component.php:69
+msgid "Full Width (Stretched)"
+msgstr ""
+
+#: ../groundwp/inc/Container_Layout/Component.php:73, ../groundwp/inc/Sidebars/Component.php:90
+msgid "Default"
+msgstr ""
+
+#: ../groundwp/inc/Container_Layout/Component.php:102, ../groundwp/inc/Meta_Box/Component.php:135
+msgid "Container Layout"
+msgstr ""
+
+#: ../groundwp/inc/Container_Layout/Component.php:120
+msgid "Default Layout"
+msgstr ""
+
+#: ../groundwp/inc/Container_Layout/Component.php:139
+msgid "Layout for Single Posts"
+msgstr ""
+
+#: ../groundwp/inc/Container_Layout/Component.php:158
+msgid "Layout for Pages"
+msgstr ""
+
+#: ../groundwp/inc/Container_Layout/Component.php:177
+msgid "Layout for Archives"
+msgstr ""
+
+#: ../groundwp/inc/Customizer/Component.php:244
+msgid "Theme Options"
+msgstr ""
+
+#: ../groundwp/inc/Customizer/Component.php:255
+msgid "Layout Options"
+msgstr ""
+
+#: ../groundwp/inc/Customizer/Component.php:266
+msgid "Blog Options"
+msgstr ""
+
+#: ../groundwp/inc/Customizer/Component.php:277
+msgid "Extra Options"
+msgstr ""
+
+#: ../groundwp/inc/Customizer/Component.php:288
+msgid "Performance Optimizations"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:65
+msgid "Blue"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:70
+msgid "Black"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:75
+msgid "Red"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:80
+msgid "Grape"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:85
+msgid "Orange"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:90
+msgid "Lime"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:95
+msgid "Green"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:100
+msgid "Cyan"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:105
+msgid "Pink"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:110
+msgid "White"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:127
+msgid "Small"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:128
+msgid "S"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:133
+msgid "Medium"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:134
+msgid "M"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:139
+msgid "Large"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:140
+msgid "L"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:145
+msgid "Larger"
+msgstr ""
+
+#: ../groundwp/inc/Editor/Component.php:146
+msgid "XL"
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:72
+msgid "Header Options"
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:115
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:116
+msgid "Sticky Header hides your header at scroll down and makes it sticky and visible at scroll up."
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:127
+msgid "Header Width"
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:128
+msgid "Controls header width. \"Full\" for full page width, \"Content\" for letting header be sized according to its contents."
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:131
+msgid "Full"
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:132
+msgid "Content"
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:142
+msgid "Logo Position"
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:143
+msgid "Position of the Logo/Site Title and Tagline. Default is \"Left\""
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:146
+msgid "Top"
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:147, ../groundwp/inc/ScrollTop/Component.php:157
+msgid "Left"
+msgstr ""
+
+#: ../groundwp/inc/Header/Component.php:148, ../groundwp/inc/ScrollTop/Component.php:158
+msgid "Right"
+msgstr ""
+
+#: ../groundwp/inc/Infinite_Scroll/Component.php:73
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../groundwp/inc/Infinite_Scroll/Component.php:83, ../groundwp/inc/ScrollTop/Component.php:146, ../groundwp/inc/Selection_Popup/Component.php:90
+msgid "Enable"
+msgstr ""
+
+#: ../groundwp/inc/Infinite_Scroll/Component.php:84
+msgid "Enable/disable Infinite Scrolling for post listings."
+msgstr ""
+
+#: ../groundwp/inc/Lazyload/Component.php:91
+msgid "Lazy-load on (default)"
+msgstr ""
+
+#: ../groundwp/inc/Lazyload/Component.php:92
+msgid "Lazy-load off"
+msgstr ""
+
+#: ../groundwp/inc/Lazyload/Component.php:98
+msgid "Lazy-load"
+msgstr ""
+
+#: ../groundwp/inc/Lazyload/Component.php:116
+msgid "Lazy-load images"
+msgstr ""
+
+#: ../groundwp/inc/Lazyload/Component.php:119
+msgid "Lazy-loading images means images are loaded only when they are in view. Improves performance, but can result in content jumping around on slower connections."
+msgstr ""
+
+#. translators: %s is the theme name.
+#: ../groundwp/inc/Meta_Box/Component.php:76
+msgid "%s Settings"
+msgstr ""
+
+#: ../groundwp/inc/Meta_Box/Component.php:153, ../groundwp/inc/Sidebars/Component.php:196
+msgid "Sidebar Style"
+msgstr ""
+
+#: ../groundwp/inc/Nav_Menus/Component.php:67
+msgid "Primary"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:87
+msgid "GroundWP related posts"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:126
+msgid "Related Posts"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:212
+msgid "Enable Related Posts Display"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:213
+msgid "Display a related posts box under single post page."
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:224
+msgid "Title"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:225
+msgid "Title to be displayed at related posts box."
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:236
+msgid "Show Date"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:237
+msgid "Show date of fetched related posts."
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:248
+msgid "Number of Posts"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:249
+msgid "How many posts should the component show."
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:263
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:264
+msgid "Show excerpt of fetched related posts."
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:275
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:276
+msgid "Length of Post Excerpt."
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:287
+msgid "Show Read More"
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Component.php:288
+msgid "Show Read More link at the end of excerpt."
+msgstr ""
+
+#: ../groundwp/inc/Related_Posts/Schema.php:43
+msgid "Related Posts:"
+msgstr ""
+
+#: ../groundwp/inc/ScrollTop/Component.php:80
+msgid "Scroll to Top"
+msgstr ""
+
+#: ../groundwp/inc/ScrollTop/Component.php:147
+msgid "Enable/disable Scroll to Top button for pages."
+msgstr ""
+
+#: ../groundwp/inc/ScrollTop/Component.php:161
+msgid "Position"
+msgstr ""
+
+#: ../groundwp/inc/ScrollTop/Component.php:162
+msgid "Page side of the component"
+msgstr ""
+
+#: ../groundwp/inc/ScrollTop/Component.php:180
+msgid "X offset"
+msgstr ""
+
+#: ../groundwp/inc/ScrollTop/Component.php:181
+msgid "Horizontal distance from page window"
+msgstr ""
+
+#: ../groundwp/inc/ScrollTop/Component.php:195
+msgid "Y offset"
+msgstr ""
+
+#: ../groundwp/inc/ScrollTop/Component.php:196
+msgid "Vertical distance from page window"
+msgstr ""
+
+#: ../groundwp/inc/Selection_Popup/Component.php:58
+msgid "Selection Pop-up"
+msgstr ""
+
+#: ../groundwp/inc/Selection_Popup/Component.php:92
+msgid "Enable/disable Selection Pop-up Component."
+msgstr ""
+
+#: ../groundwp/inc/Selection_Popup/Component.php:107
+msgid "items"
+msgstr ""
+
+#: ../groundwp/inc/Selection_Popup/Component.php:108
+msgid "Items that are available on Selection Pop-up component."
+msgstr ""
+
+#: ../groundwp/inc/Selection_Popup/Component.php:158
+msgid "Copy"
+msgstr ""
+
+#: ../groundwp/inc/Selection_Popup/Selection_Custom_Control_View.php:5
+msgid "Label"
+msgstr ""
+
+#: ../groundwp/inc/Selection_Popup/Selection_Custom_Control_View.php:6
+msgid "URL"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:84
+msgid "No Sidebar"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:85
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:86
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:104
+msgid "Sidebar"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:106, ../groundwp/inc/Sidebars/Component.php:122, ../groundwp/inc/Sidebars/Component.php:134, ../groundwp/inc/Sidebars/Component.php:146
+msgid "Add widgets here."
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:120
+msgid "Footer Area 1"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:132
+msgid "Footer Area 2"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:144
+msgid "Footer Area 3"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:213
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:232
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:251
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../groundwp/inc/Sidebars/Component.php:270
+msgid "Archives Sidebar"
+msgstr ""
+
+#: ../groundwp/inc/Styles/Component.php:127
+msgid "CSS options"
+msgstr ""
+
+#: ../groundwp/inc/Styles/Component.php:136
+msgid "Enable inline CSS"
+msgstr ""
+
+#: ../groundwp/inc/Styles/Component.php:137
+msgid "Inline main css file for the theme. This option will boost up first visit speed of your site, but will opt your styles out of caching."
+msgstr ""
+
+#. translators: %s: stylesheet handle
+#: ../groundwp/inc/Styles/Component.php:303
+msgid "Invalid theme stylesheet handle: %s"
+msgstr ""
+
+#: ../groundwp/template-parts/content/entry-attachment.php:33, ../groundwp/template-parts/content/entry.php:38
+msgid "Previous:"
+msgstr ""
+
+#: ../groundwp/template-parts/content/entry-attachment.php:43, ../groundwp/template-parts/content/entry.php:39
+msgid "Next:"
+msgstr ""
+
+#: ../groundwp/template-parts/content/entry-attachment.php:49
+msgid "Post navigation"
+msgstr ""
+
+#. translators: %s: post title
+#: ../groundwp/template-parts/content/entry_actions.php:21
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: post title
+#: ../groundwp/template-parts/content/entry_actions.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: ../groundwp/template-parts/content/entry_content.php:18
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../groundwp/template-parts/content/entry_content.php:31
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: post parent title
+#: ../groundwp/template-parts/content/entry_meta.php:77
+msgctxt "post parent"
+msgid "In %s"
+msgstr ""
+
+#. translators: %s: post parent title
+#: ../groundwp/template-parts/content/entry_meta.php:80
+msgctxt "post parent"
+msgid "in %s"
+msgstr ""
+
+#. translators: separator between taxonomy terms
+#: ../groundwp/template-parts/content/entry_taxonomies.php:24
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: list of taxonomy terms
+#: ../groundwp/template-parts/content/entry_taxonomies.php:31
+msgid "Posted in %s"
+msgstr ""
+
+#. translators: %s: list of taxonomy terms
+#: ../groundwp/template-parts/content/entry_taxonomies.php:37
+msgid "Tagged %s"
+msgstr ""
+
+#. translators: %s: taxonomy name
+#: ../groundwp/template-parts/content/entry_taxonomies.php:44
+msgid "%s:"
+msgstr ""
+
+#: ../groundwp/template-parts/content/error-404.php:16
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: ../groundwp/template-parts/content/error-404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: ../groundwp/template-parts/content/error-404.php:45
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../groundwp/template-parts/content/error-500.php:14
+msgid "Oops! Something went wrong."
+msgstr ""
+
+#: ../groundwp/template-parts/content/error-offline.php:14
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: ../groundwp/template-parts/content/error.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../groundwp/template-parts/content/error.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../groundwp/template-parts/content/error.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../groundwp/template-parts/content/page_header.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../groundwp/template-parts/content/page_header.php:22
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: search query
+#: ../groundwp/template-parts/content/page_header.php:41
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../groundwp/template-parts/content/pagination.php:13
+msgctxt "previous set of search results"
+msgid "Previous"
+msgstr ""
+
+#: ../groundwp/template-parts/content/pagination.php:14
+msgctxt "next set of search results"
+msgid "Next"
+msgstr ""
+
+#: ../groundwp/template-parts/content/pagination.php:15
+msgid "Page navigation"
+msgstr ""
+
+#: ../groundwp/template-parts/footer/info.php:17
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: ../groundwp/template-parts/footer/info.php:22
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: Theme name.
+#: ../groundwp/template-parts/footer/info.php:29
+msgid "Theme: %s by the contributors."
+msgstr ""
+
+#: ../groundwp/template-parts/header/navigation.php:16
+msgid "Main menu"
+msgstr ""
+
+#: ../groundwp/template-parts/header/navigation.php:39
+msgid "Open menu"
+msgstr ""
+
+#: ../groundwp/template-parts/svg-inline/circular_load_icon_svg.php:20
+msgid "Circular load icon"
+msgstr ""
+
+#: ../groundwp/template-parts/svg-inline/circular_load_icon_svg.php:22
+msgid "A circle with two arrows used to depict loading a content."
+msgstr ""
+
+#: ../groundwp/template-parts/svg-inline/scroll_to_top_svg.php:18
+msgid "Scroll to top"
+msgstr ""
+
+#: ../groundwp/template-parts/svg-inline/scroll_to_top_svg.php:21
+msgid "An arrow pointing upwards to a line which refers to scrolling to the top of the current page."
+msgstr ""

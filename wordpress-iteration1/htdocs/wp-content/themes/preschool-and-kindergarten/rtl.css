@@ -1,0 +1,208 @@
+/*
+Theme Name: Preschool and Kindergarten
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.header-t .contact-info,
+.header-t .contact-info li {
+    float: right;
+}
+
+.header-t .contact-info li {
+    margin-right: 0;
+    margin-left: 38px;
+}
+
+.header-t .social-networks {
+    float: left;
+}
+
+.header-t .contact-info li a .fa {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.header-t .social-networks li:first-child {
+    margin-left: 0;
+}
+
+.header-t .social-networks li {
+    float: right;
+    margin-left: 0;
+    margin-right: 19px;
+}
+
+.site-branding,
+.main-navigation li {
+    float: right;
+}
+
+.main-navigation {
+    float: left;
+}
+
+.main-navigation li {
+    margin-left: 0;
+    margin-right: 48px;
+}
+
+.main-navigation li:first-child {
+    margin-right: 0;
+}
+
+.main-navigation ul ul::before {
+    right: 30px;
+    left: auto;
+}
+
+.welcome .img-holder,
+.welcome .text-holder,
+.welcome .text-holder .btn-more,
+.section-2 .col,
+.section-3 .text-holder,
+.section-3 .img-holder,
+.section-3 ul li,
+.featured .col {
+    float: right;
+}
+
+.section-3 ul li::before {
+    right: 0;
+    left: auto;
+}
+
+.section-3 ul li {
+    padding-left: 15px;
+    padding-right: 60px;
+}
+
+.our-staff .col,
+.news .post,
+.site-footer .column {
+    float: right;
+}
+
+.news .post .posted-on {
+    float: right;
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+.widget.widget_preschool_and_kindergarten_social_links li {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.widget.widget_preschool_and_kindergarten_recent_post ul li .post-thumbnail,
+.widget.widget_preschool_and_kindergarten_popular_post ul li .post-thumbnail {
+    float: right;
+    margin-right: 0;
+    margin-left: 19px;
+}
+
+.page-header {
+    float: right;
+}
+
+#crumbs {
+    float: left;
+}
+
+#crumbs a,
+#crumbs span {
+    display: inline-block;
+}
+
+.error-holder .search-form label {
+    float: right;
+}
+
+.error-holder .search-form input[type="submit"] {
+    float: left;
+}
+
+.wpcf7 {
+    direction: rtl;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    float: right;
+}
+
+#primary .post .btn-readmore,
+.search #primary .page .btn-readmore {
+    float: right;
+}
+
+#primary .post .entry-meta span {
+    margin-right: 0;
+    margin-left: 23px;
+}
+
+#primary .post .entry-meta span a {
+    display: inline-block;
+}
+
+#primary .post .entry-meta .comments-link a::before {
+    display: inline-block;
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.comments-area .comment-body .avatar {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.comment-author,
+.comments-area .comment-body .comment-metadata {
+    float: right;
+}
+
+.comments-area .comment-body .fn {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.comments-area .comment-body .comment-content,
+.comments-area .comment-body .reply {
+    margin-left: 0;
+    margin-right: 97px;
+}
+
+.pagination a,
+.pagination .current {
+    float: right;
+}
+
+.banner .banner-text .text-holder {
+    float: right;
+}
+
+.banner .banner-text .btn-enroll {
+    float: right;
+}
+
+@media only screen and (max-width:991px) {
+    .site-branding,
+    .main-navigation li {
+        float: left;
+    }
+}

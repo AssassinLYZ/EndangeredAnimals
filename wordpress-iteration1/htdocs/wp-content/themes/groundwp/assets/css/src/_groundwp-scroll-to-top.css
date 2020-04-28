@@ -1,0 +1,59 @@
+/*--------------------------------------------------------------
+# Scroll to top
+--------------------------------------------------------------*/
+
+.groundwp_scroll_to_top_wrapper {
+	display: none;
+	position: fixed;
+	width: 70px;
+	height: 70px;
+	background-color: var(--color-theme-gray-2);
+	border-radius: 50%;
+	filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.3));
+	transition: background-color 0.3s ease-out;
+	cursor: pointer;
+}
+
+.groundwp_scroll_to_top_wrapper:hover {
+	background-color: var(--color-theme-gray-4);
+
+}
+
+.groundwp_scroll_to_top_wrapper:hover #stt_arrow {
+	animation: stt_arrow_move 0.5s alternate ease-out infinite;
+}
+
+.groundwp_scroll_to_top_visible {
+	display: block;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+@keyframes stt_arrow_move {
+
+	from {
+		transform: translateY(0%);
+	}
+
+	to {
+		transform: translateY(-10px);
+	}
+}
+
+#stt_svg {
+	filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.3));
+}
+
+
+#stt_back,
+#stt_top_line,
+#stt_arrow {
+	fill: var(--color-theme-gray-5);
+}
+
+#stt_circle {
+	fill: var(--theme-background-color);
+
+}
